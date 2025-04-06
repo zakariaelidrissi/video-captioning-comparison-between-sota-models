@@ -1,0 +1,12 @@
+Adobe_premiere_pro_auto-Save/
+Datasets/
+DatasetDivided/Original/
+DatasetDivided/video_downscaler.py
+env/
+code/.ipynb_checkpoints/
+code/__pycache__/
+code/huggingface_models/
+code/graphs_v1/
+code/graphs/
+code/results/
+code/results_tables/
